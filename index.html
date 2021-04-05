@@ -78,14 +78,7 @@ description: 欢迎关注！！！
             </section>
 
             {% if site.recommend-tags and site.tags.size>0 %}
-            <section class="tags-card">
-                {% for tag in site.tags %}
-                    {% if forloop.index > site.recommend-condition-size %}
-                        {% break %}
-                    {% endif %}
-                    <a href="{{ "tags.html#" | append: tag[0] | relative_url }}" class="tag">{{ tag[0]}}</a>
-                {% endfor %}
-            </section>
+         
             {% endif %}
         </div>
 
