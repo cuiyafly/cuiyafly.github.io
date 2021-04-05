@@ -1,26 +1,17 @@
 ---
 layout: post
-title: 'Hello 崔亚飞'
-date: 2017-04-18
-author: Jekyll
+title: 'TensorFlow基础教程'
+date: 2021-04-05
+author: 崔亚飞
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: jekyll
 ---
 
 > Transform your plain text into static websites and blogs.
 
-### Welcome
+### TensorFlow2.0课程简介
 
-This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
+本教程由浅入深，系统全面的介绍了TensorFlow2.0的基础，通过典型API的实战应用带你学习各个模块，让你全面学习TensorFlow2.0。 本教程共分为4个层次，分别为：相知篇、相恋篇、相爱篇、修成正果篇，知识导图如图所示：
 
-### So what is Jekyll, exactly?Permalink
+TensorFlow基础教程(like [Markdown](https://tianchi.aliyun.com/course/779))
 
-Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like [Markdown](https://daringfireball.net/projects/markdown/)) and our [Liquid](https://github.com/Shopify/liquid/wiki) renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
-
-### Helpful HintsPermalink
-
-Throughout this guide there are a number of small-but-handy pieces of information that can make using Jekyll easier, more interesting, and less hazardous. Here’s what to look out for.
-
-### Video Test
-
-<iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></iframe>
