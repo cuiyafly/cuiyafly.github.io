@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '崔亚飞的独立博客'
 description: '很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '崔亚飞, 崔亚飞的独立博客, 崔亚飞的博客'
+keyword: '崔亚飞, 崔亚飞的博客'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -25,8 +25,8 @@ footer:
 
 # Author 配置博主信息
 author: '崔亚飞'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
+nickname: 'fly'
+bio: '机器学习，机器视觉，深度学习'
 avatar: '/assets/img/1.jpg'
 
 # Search
